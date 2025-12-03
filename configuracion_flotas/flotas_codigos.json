@@ -1,0 +1,47 @@
+{
+    "Baruta": {
+        "codigo_db": "58553",
+        "descripcion": "Baruta",
+        "archivo_flota": "Baruta.json" 
+    },
+    "Chacao": {
+        "codigo_db": "68701",
+        "descripcion": "Chacao",
+        "archivo_flota": "Chacao.json"
+    },
+    "El Tigre": {
+        "codigo_db": "68018",
+        "descripcion": "El Tigre",
+        "archivo_flota": "El_Tigre.json"
+    },
+    "Giraldot": {
+        "codigo_db": "76314",
+        "descripcion": "Giraldot",
+        "archivo_flota": "Giraldot.json"
+    },
+    "Guayana": {
+        "codigo_db": "70265",
+        "descripcion": "Guayana",
+        "archivo_flota": "Guayana.json"
+    },
+    "Hatillo": {
+        "codigo_db": "69634",
+        "descripcion": "Hatillo",
+        "archivo_flota": "Hatillo.json"
+    },
+    "Iribarren": {
+        "codigo_db": "58204",
+        "descripcion": "Iribarren",
+        "archivo_flota": "Iribarren.json"
+    },
+    "Maneiro": {
+        "codigo_db": "62736",
+        "descripcion": "Maneiro",
+        "archivo_flota": "Maneiro.json"
+    },
+    "San Diego": {
+        "codigo_db": "63742",
+        "descripcion": "San_Diego",
+        "archivo_flota": "San_Diego.json"
+    }
+}
