@@ -1,8 +1,0 @@
-streamlit
-requests
-pandas
-pydeck
-numpy
-shapely
-sqlite3
-
