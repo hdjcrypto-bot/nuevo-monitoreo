@@ -43,5 +43,11 @@
         "codigo_db": "63742",
         "descripcion": "San_Diego",
         "archivo_flota": "San_Diego.json"
+    },
+        "Maracaibo": {
+        "codigo_db": "79875",
+        "descripcion": "Maracaibo",
+        "archivo_flota": "Maracaibo.json"
     }
+
 }
